@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Rakib-Hasan-Rakib/Rakib-Hasan-Rakib/blob/main/Rakibul-Hasan-Banner.png)
 <h1 align="center">Hi 👋, I'm Rakibul Hasan</h1>
 <h3 align="center">A dedicated full stack developer from Bangladesh</h3>
 
@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **JavaScript, React, Node, MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, FireBase, Node & MongoDB**
 
-- 📫 How to reach me **rakibhasanrakib3006@gmail.com**
+- 📫 Reach me on **rakibhasanrakib3006@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17wJmU5HZ2CCELZL2y5K42avpqtiI9UBR/view?usp=sharing](https://drive.google.com/file/d/17wJmU5HZ2CCELZL2y5K42avpqtiI9UBR/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17wJmU5HZ2CCELZL2y5K42avpqtiI9UBR/view?usp=sharing)
 
 - ⚡ Fun fact **I'm funny**
 
