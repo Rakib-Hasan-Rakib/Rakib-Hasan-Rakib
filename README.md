@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, FireBase, Node & MongoDB**
 
-- 📫 Reach me on **rakibhasanrakib3006@gmail.com**
+- 📫 Reach me on **rakibulhasan4003@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17wJmU5HZ2CCELZL2y5K42avpqtiI9UBR/view?usp=sharing)
 
