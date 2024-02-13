@@ -10,7 +10,7 @@
 
 - 📫 Reach me on **rakibulhasan4003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17wJmU5HZ2CCELZL2y5K42avpqtiI9UBR/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1txasXG090HUPJ4rLUlQj1Jg41OoSm0Z6/view?usp=sharing)
 
 - ⚡ Fun fact **I'm funny**
 
